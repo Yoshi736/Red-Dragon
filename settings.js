@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `My name is Yoshi🔥 ´
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -31,6 +31,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+94789928493'] //ur owner number
 global.ownername = "Yoshith😊" //ur owner name
+global.ownernum  = "http://wa.me/+94789928493?text=hi"
 global.ytname = "Yoshith TECH" //ur yt chanel name
 global.socialm = "Titok= www.tiktok.com/@yoshi_offical1 " //ur github or insta name
 global.location = "Srilanka" //ur location
